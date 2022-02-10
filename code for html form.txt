@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+
+<style>
+h1{text-align:center}
+form{line-height: 2.5;}
+</style>
+
+<head>
+
+
+<body>
+<h1><b>HOSPITAL FORM</b></h1>
+<form>
+Patient's First Name : <input type="text"><br>
+
+Patient's Last Name  : <input type="text"><br>
+
+Contact No.: <input type="text"><br>
+
+Address    : <input type="text"><br>
+
+Email-Id   : <input type="text"><br>
+
+Password   : <input type="password"><br>
+
+Select Gender:<input type="radio" name="gender">Male
+
+              <input type="radio" name="gender">Female<br>
+Reason for Registration : <input type="text"><br>
+
+<button type=submit" value="submit">  Submit  </button>
+
+</body>
+</head>
+</html>
